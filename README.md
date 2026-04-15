@@ -213,10 +213,8 @@
 <table>
   <tr>
     <td><img src="./github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="./github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td><img src="./github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="./github-metrics/reactions.svg" alt="reactions" /></td>
@@ -224,9 +222,6 @@
   <tr>
     <td><img src="./github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="./github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="./github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="./github-metrics/stars.svg" alt="stars" /></td>
