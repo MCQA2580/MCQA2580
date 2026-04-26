@@ -3,7 +3,7 @@
 name: GitHub Metrics
 
 permissions:
-  contents: read
+  contents: write
 
 on:
   schedule:
